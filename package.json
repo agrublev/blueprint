@@ -1,7 +1,6 @@
 {
-  "name": "blueprintjs-monorepo",
-  "version": "3.14.2",
-  "private": true,
+  "name": "@fkit/blueprintjs-monorepo",
+  "version": "3.14.3",
   "description": "A React UI toolkit for the web.",
   "workspaces": [
     "packages/*"
