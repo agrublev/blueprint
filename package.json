@@ -1,5 +1,5 @@
 {
-  "name": "@fkit/icons",
+  "name": "@blueprintjs/icons",
   "version": "3.6.52",
   "description": "Components, fonts, icons, and css files for creating and displaying icons.",
   "main": "lib/cjs/index.js",
